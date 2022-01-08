@@ -75,7 +75,7 @@ header {
 header > h1 {
     font-family: var(--fonte-destaque);
     color: white;
-    margin-bottom: 20px;
+    padding-bottom: 35px;
     font-size: 3em;
     font-weight: normal;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.245);
