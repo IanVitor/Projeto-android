@@ -1,5 +1,5 @@
 # Projeto-android
-Site estático que apresenta a história da criação do Android.
+Site estático que apresenta a história da criação do Android.<br>
 
 <img src="./source/imagens/Projeto-android-img.jpg">
 
