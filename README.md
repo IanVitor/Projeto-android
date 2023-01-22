@@ -4,7 +4,7 @@ Site estático que apresenta a história da criação do Android.
 <img src="./source/imagens/Projeto-android-img.jpg">
 
 <p>
-  Projeto construido durante o curso de <a src="https://www.cursoemvideo.com/curso/html5-css3-modulo1/">HTML e CSS</a> do Curso em Vídeo.
+  Projeto construido durante o curso de <a href="https://www.cursoemvideo.com/curso/html5-css3-modulo1/">HTML e CSS</a> do Curso em Vídeo.
 </p>
 
 <dl>
